@@ -1,0 +1,20 @@
+{
+  "belt": {
+    "id": "vermelho-preto",
+    "order": 10,
+    "name": "1.º KUP",
+    "nameKorean": "홍흑 띠",
+    "namePt": "Cinto Vermelho-Preto",
+    "kup": "1.º KUP",
+    "colorName": "Verm.-Preto",
+    "color": "#7f1d1d",
+    "textColor": "#fca5a5",
+    "accentColor": "#f87171",
+    "examRequirements": "Hyong: Choong-Moo (30 movimentos).",
+    "meaning": null
+  },
+  "vocabulary": [],
+  "movements": [],
+  "poomse": [],
+  "checklist": []
+}

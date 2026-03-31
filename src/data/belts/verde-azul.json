@@ -1,0 +1,20 @@
+{
+  "belt": {
+    "id": "verde-azul",
+    "order": 6,
+    "name": "5.º KUP",
+    "nameKorean": "초파 띠",
+    "namePt": "Cinto Verde-Azul",
+    "kup": "5.º KUP",
+    "colorName": "Verde-Azul",
+    "color": "#BAE6FD",
+    "textColor": "#075985",
+    "accentColor": "#0284c7",
+    "examRequirements": "Hyong: Yul-Gok (38 movimentos).",
+    "meaning": null
+  },
+  "vocabulary": [],
+  "movements": [],
+  "poomse": [],
+  "checklist": []
+}

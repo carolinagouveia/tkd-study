@@ -1,0 +1,20 @@
+{
+  "belt": {
+    "id": "azul-vermelho",
+    "order": 8,
+    "name": "3.º KUP",
+    "nameKorean": "파홍 띠",
+    "namePt": "Cinto Azul-Vermelho",
+    "kup": "3.º KUP",
+    "colorName": "Azul-Verm.",
+    "color": "#C4B5FD",
+    "textColor": "#3b0764",
+    "accentColor": "#7c3aed",
+    "examRequirements": "Hyong: Toi-Gye (37 movimentos).",
+    "meaning": null
+  },
+  "vocabulary": [],
+  "movements": [],
+  "poomse": [],
+  "checklist": []
+}

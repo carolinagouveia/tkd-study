@@ -1,0 +1,20 @@
+{
+  "belt": {
+    "id": "branca-amarela",
+    "order": 2,
+    "name": "9.º KUP",
+    "nameKorean": "흰노 띠",
+    "namePt": "Cinto Branco-Amarelo",
+    "kup": "9.º KUP",
+    "colorName": "Branco-Amarelo",
+    "color": "#FEF9C3",
+    "textColor": "#713f12",
+    "accentColor": "#ca8a04",
+    "examRequirements": "Consolidação das técnicas do 10.º KUP. Hyong: Tchon-Gi.",
+    "meaning": null
+  },
+  "vocabulary": [],
+  "movements": [],
+  "poomse": [],
+  "checklist": []
+}

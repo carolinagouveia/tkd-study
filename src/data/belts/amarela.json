@@ -1,0 +1,406 @@
+{
+  "belt": {
+    "id": "amarela",
+    "order": 3,
+    "name": "Amarelo",
+    "nameKorean": "노란 띠",
+    "namePt": "Cinto Amarelo",
+    "kup": "8.º KUP",
+    "colorName": "Amarelo",
+    "color": "#FEF08A",
+    "textColor": "#713f12",
+    "accentColor": "#ca8a04",
+    "examRequirements": "Hyong: Dan-Gun (21 movimentos).",
+    "meaning": null
+  },
+  "vocabulary": [
+    {
+      "id": "vocab-amarela-001",
+      "korean": "서기",
+      "romanized": "Seogi",
+      "portuguese": "Postura / Estância",
+      "category": "postura",
+      "beltId": "amarela",
+      "notes": "Termo genérico para qualquer postura em Taekwondo."
+    },
+    {
+      "id": "vocab-amarela-002",
+      "korean": "앞 서기",
+      "romanized": "Ap Seogi",
+      "portuguese": "Postura de caminhada",
+      "category": "postura",
+      "beltId": "amarela",
+      "notes": "Pés afastados um passo natural, peso distribuído igualmente. Postura básica de deslocamento."
+    },
+    {
+      "id": "vocab-amarela-003",
+      "korean": "앞 굽이",
+      "romanized": "Ap Kubi",
+      "portuguese": "Postura de avanço",
+      "category": "postura",
+      "beltId": "amarela",
+      "notes": "Postura longa e baixa. 70% do peso na perna da frente. Joelho da frente alinhado com o pé."
+    },
+    {
+      "id": "vocab-amarela-004",
+      "korean": "막기",
+      "romanized": "Makki",
+      "portuguese": "Bloqueio",
+      "category": "tecnica",
+      "beltId": "amarela"
+    },
+    {
+      "id": "vocab-amarela-005",
+      "korean": "아래 막기",
+      "romanized": "Arae Makki",
+      "portuguese": "Bloqueio baixo",
+      "category": "tecnica",
+      "beltId": "amarela",
+      "notes": "Bloqueia ataques dirigidos ao abdómen e zona inferior. Antebraço desce em diagonal."
+    },
+    {
+      "id": "vocab-amarela-006",
+      "korean": "몸통 막기",
+      "romanized": "Momtong Makki",
+      "portuguese": "Bloqueio médio",
+      "category": "tecnica",
+      "beltId": "amarela",
+      "notes": "Bloqueia ataques ao tronco. O antebraço sobe de dentro para fora ao nível do peito."
+    },
+    {
+      "id": "vocab-amarela-007",
+      "korean": "얼굴 막기",
+      "romanized": "Eolgul Makki",
+      "portuguese": "Bloqueio alto",
+      "category": "tecnica",
+      "beltId": "amarela",
+      "notes": "Protege a cabeça. O antebraço sobe em diagonal acima da testa."
+    },
+    {
+      "id": "vocab-amarela-008",
+      "korean": "몸통 지르기",
+      "romanized": "Momtong Jireugi",
+      "portuguese": "Soco ao tronco",
+      "category": "tecnica",
+      "beltId": "amarela",
+      "notes": "Variação do Jireugi direcionada ao plexo solar do adversário."
+    },
+    {
+      "id": "vocab-amarela-009",
+      "korean": "옆 차기",
+      "romanized": "Yeop Chagi",
+      "portuguese": "Chute lateral",
+      "category": "tecnica",
+      "beltId": "amarela",
+      "notes": "Chute de lado com o gume do pé (balnal). O quadril roda para dar potência."
+    },
+    {
+      "id": "vocab-amarela-010",
+      "korean": "태극 일장",
+      "romanized": "Taegeuk Il Jang",
+      "portuguese": "Primeira forma Taegeuk",
+      "category": "poomse",
+      "beltId": "amarela",
+      "notes": "Il = Um. Representa o trigrama ☰ (Geon / Céu). Enfatiza o início de tudo — a primeira poomse ensinada."
+    },
+    {
+      "id": "vocab-amarela-011",
+      "korean": "품새",
+      "romanized": "Poomse",
+      "portuguese": "Forma / Sequência de movimentos",
+      "category": "poomse",
+      "beltId": "amarela",
+      "notes": "Sequência pré-definida de técnicas executadas contra adversários imaginários. Treina técnica, equilíbrio e foco."
+    },
+    {
+      "id": "vocab-amarela-012",
+      "korean": "기합",
+      "romanized": "Kiap",
+      "portuguese": "Grito de força / Concentração vocal",
+      "category": "conceito",
+      "beltId": "amarela",
+      "notes": "Grito curto e explosivo emitido em certos momentos da poomse. Concentra energia, fortalece o golpe e intimidia o adversário."
+    }
+  ],
+  "movements": [
+    {
+      "id": "move-amarela-001",
+      "name": "Bloqueio Médio",
+      "nameKorean": "몸통 막기",
+      "romanized": "Momtong Makki",
+      "stance": "ap-kubi",
+      "description": "1. Na postura ap-kubi, o braço de bloqueio começa cruzado à frente do peito, punho ao nível do ombro oposto.\n2. Rode o antebraço de dentro para fora, varrendo lateralmente ao nível do peito.\n3. O braço de bloqueio termina com o cotovelo dobrado a 90°, punho ao nível do ombro.\n4. O braço oposto recua ao quadril simultaneamente.",
+      "tips": "O bloqueio deve ser feito com o rádio (parte exterior do antebraço), não com o pulso. Mantenha o cotovelo ligeiramente dobrado no final.",
+      "imagePlaceholder": "/images/movements/momtong-makki.svg",
+      "beltId": "amarela"
+    },
+    {
+      "id": "move-amarela-002",
+      "name": "Bloqueio Alto",
+      "nameKorean": "얼굴 막기",
+      "romanized": "Eolgul Makki",
+      "stance": "ap-kubi",
+      "description": "1. O braço de bloqueio parte do lado oposto, cruzado à frente do rosto.\n2. Sobe em diagonal, varrendo de baixo para cima, terminando acima da testa com o antebraço inclinado.\n3. O punho fica acima e à frente da cabeça, criando um escudo.\n4. O braço oposto recua ao quadril.",
+      "tips": "O antebraço deve ficar inclinado (não horizontal) para desviar golpes em vez de os absorver frontalmente.",
+      "imagePlaceholder": "/images/movements/eolgul-makki.svg",
+      "beltId": "amarela"
+    },
+    {
+      "id": "move-amarela-003",
+      "name": "Chute Lateral",
+      "nameKorean": "옆 차기",
+      "romanized": "Yeop Chagi",
+      "stance": "ap-seogi",
+      "description": "1. Levante o joelho da perna de ataque em direção ao peito, pé em flexão.\n2. Rode o quadril 90° para o lado, apontando o pé lateralmente.\n3. Estenda a perna em linha reta, atingindo com o gume externo do pé (balnal).\n4. Recue o joelho ao peito antes de pousar.",
+      "tips": "O quadril deve girar completamente — sem rotação do quadril, o chute perde potência e alcance. O tornozelo fica em extensão (pé tensionado, dedos apontados para cima).",
+      "imagePlaceholder": "/images/movements/yeop-chagi.svg",
+      "beltId": "amarela"
+    }
+  ],
+  "poomse": [
+    {
+      "id": "poomse-taegeuk-il-jang",
+      "name": "Taegeuk Il Jang",
+      "nameKorean": "태극 일장",
+      "beltId": "amarela",
+      "totalSteps": 18,
+      "description": "A primeira poomse Taegeuk. Representa o trigrama Geon (☰), símbolo do Céu e do começo de tudo. O padrão no chão traça a forma 工 (I maiúsculo). Enfatiza posturas ap-kubi, bloqueios baixos e socos ao tronco.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "movementId": "move-branca-003",
+          "direction": "W",
+          "technique": "Arae Makki",
+          "stance": "ap-kubi",
+          "description": "Rode 90° para a esquerda (Oeste). Na postura ap-kubi, execute o bloqueio baixo com o braço esquerdo.",
+          "diagramX": 100,
+          "diagramY": 185
+        },
+        {
+          "stepNumber": 2,
+          "movementId": "move-branca-001",
+          "direction": "W",
+          "technique": "Momtong Jireugi",
+          "stance": "ap-kubi",
+          "description": "Avance um passo para Oeste. Na postura ap-kubi, execute o soco ao tronco com o braço direito.",
+          "diagramX": 65,
+          "diagramY": 185
+        },
+        {
+          "stepNumber": 3,
+          "movementId": "move-branca-003",
+          "direction": "E",
+          "technique": "Arae Makki",
+          "stance": "ap-kubi",
+          "description": "Rode 180° para a direita (Este). Na postura ap-kubi, execute o bloqueio baixo com o braço direito.",
+          "diagramX": 200,
+          "diagramY": 185
+        },
+        {
+          "stepNumber": 4,
+          "movementId": "move-branca-001",
+          "direction": "E",
+          "technique": "Momtong Jireugi",
+          "stance": "ap-kubi",
+          "description": "Avance um passo para Este. Na postura ap-kubi, execute o soco ao tronco com o braço esquerdo.",
+          "diagramX": 235,
+          "diagramY": 185
+        },
+        {
+          "stepNumber": 5,
+          "movementId": "move-branca-003",
+          "direction": "N",
+          "technique": "Arae Makki",
+          "stance": "ap-kubi",
+          "description": "Rode 90° para a esquerda (Norte). Na postura ap-kubi, execute o bloqueio baixo com o braço esquerdo.",
+          "diagramX": 150,
+          "diagramY": 145
+        },
+        {
+          "stepNumber": 6,
+          "movementId": "move-branca-001",
+          "direction": "N",
+          "technique": "Momtong Jireugi",
+          "stance": "ap-kubi",
+          "kiap": true,
+          "description": "Avance um passo para Norte. Na postura ap-kubi, execute o soco ao tronco com o braço direito. KIAP!",
+          "diagramX": 150,
+          "diagramY": 110
+        },
+        {
+          "stepNumber": 7,
+          "movementId": "move-branca-003",
+          "direction": "W",
+          "technique": "Arae Makki",
+          "stance": "ap-kubi",
+          "description": "Rode 90° para a esquerda (Oeste). Recue e rode para Noroeste, postura ap-kubi, bloqueio baixo com o braço esquerdo.",
+          "diagramX": 100,
+          "diagramY": 78
+        },
+        {
+          "stepNumber": 8,
+          "movementId": "move-amarela-002",
+          "direction": "W",
+          "technique": "Eolgul Makki",
+          "stance": "ap-kubi",
+          "description": "Avance um passo para Oeste. Na postura ap-kubi, execute o bloqueio alto com o braço direito.",
+          "diagramX": 65,
+          "diagramY": 78
+        },
+        {
+          "stepNumber": 9,
+          "movementId": "move-branca-003",
+          "direction": "E",
+          "technique": "Arae Makki",
+          "stance": "ap-kubi",
+          "description": "Rode 180° para Este. Na postura ap-kubi, execute o bloqueio baixo com o braço esquerdo.",
+          "diagramX": 200,
+          "diagramY": 78
+        },
+        {
+          "stepNumber": 10,
+          "movementId": "move-amarela-002",
+          "direction": "E",
+          "technique": "Eolgul Makki",
+          "stance": "ap-kubi",
+          "kiap": true,
+          "description": "Avance um passo para Este. Na postura ap-kubi, execute o bloqueio alto com o braço esquerdo. KIAP!",
+          "diagramX": 235,
+          "diagramY": 78
+        },
+        {
+          "stepNumber": 11,
+          "movementId": "move-branca-002",
+          "direction": "S",
+          "technique": "Ap Chagi + Jireugi",
+          "stance": "ap-kubi",
+          "description": "Rode 90° para Sul. Execute um chute frontal (ap chagi) com a perna direita, depois pouse em ap-kubi e execute o soco ao tronco com o braço direito.",
+          "diagramX": 150,
+          "diagramY": 145
+        },
+        {
+          "stepNumber": 12,
+          "movementId": "move-branca-002",
+          "direction": "S",
+          "technique": "Ap Chagi + Jireugi",
+          "stance": "ap-kubi",
+          "kiap": true,
+          "description": "Avance. Execute um chute frontal (ap chagi) com a perna esquerda, pouse em ap-kubi, soco ao tronco com o braço esquerdo. KIAP!",
+          "diagramX": 150,
+          "diagramY": 185
+        },
+        {
+          "stepNumber": 13,
+          "movementId": "move-branca-003",
+          "direction": "E",
+          "technique": "Arae Makki",
+          "stance": "ap-kubi",
+          "description": "Rode 90° para Este. Na postura ap-kubi, execute o bloqueio baixo com o braço direito.",
+          "diagramX": 200,
+          "diagramY": 220
+        },
+        {
+          "stepNumber": 14,
+          "movementId": "move-branca-001",
+          "direction": "E",
+          "technique": "Momtong Jireugi",
+          "stance": "ap-kubi",
+          "description": "Avance para Este. Na postura ap-kubi, soco ao tronco com o braço esquerdo.",
+          "diagramX": 235,
+          "diagramY": 220
+        },
+        {
+          "stepNumber": 15,
+          "movementId": "move-branca-003",
+          "direction": "W",
+          "technique": "Arae Makki",
+          "stance": "ap-kubi",
+          "description": "Rode 180° para Oeste. Na postura ap-kubi, execute o bloqueio baixo com o braço esquerdo.",
+          "diagramX": 100,
+          "diagramY": 220
+        },
+        {
+          "stepNumber": 16,
+          "movementId": "move-branca-001",
+          "direction": "W",
+          "technique": "Momtong Jireugi",
+          "stance": "ap-kubi",
+          "description": "Avance para Oeste. Na postura ap-kubi, soco ao tronco com o braço direito.",
+          "diagramX": 65,
+          "diagramY": 220
+        },
+        {
+          "stepNumber": 17,
+          "movementId": "move-branca-003",
+          "direction": "N",
+          "technique": "Arae Makki",
+          "stance": "ap-kubi",
+          "description": "Rode 90° para Norte. Na postura ap-kubi, execute o bloqueio baixo com o braço esquerdo.",
+          "diagramX": 150,
+          "diagramY": 255
+        },
+        {
+          "stepNumber": 18,
+          "movementId": "move-branca-001",
+          "direction": "N",
+          "technique": "Momtong Jireugi",
+          "stance": "ap-kubi",
+          "kiap": true,
+          "description": "Avance para Norte. Na postura ap-kubi, soco ao tronco com o braço direito. KIAP! Retorne à posição inicial (Baro).",
+          "diagramX": 150,
+          "diagramY": 290
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "id": "check-amarela-001",
+      "category": "vocabulario",
+      "labelPt": "Conhecer os termos de postura: Ap Seogi, Ap Kubi",
+      "beltId": "amarela"
+    },
+    {
+      "id": "check-amarela-002",
+      "category": "vocabulario",
+      "labelPt": "Saber os três bloqueios: Arae, Momtong e Eolgul Makki",
+      "beltId": "amarela"
+    },
+    {
+      "id": "check-amarela-003",
+      "category": "tecnicas-de-mao",
+      "labelPt": "Executar o bloqueio médio (Momtong Makki) com forma correta",
+      "beltId": "amarela"
+    },
+    {
+      "id": "check-amarela-004",
+      "category": "tecnicas-de-mao",
+      "labelPt": "Executar o bloqueio alto (Eolgul Makki) com forma correta",
+      "beltId": "amarela"
+    },
+    {
+      "id": "check-amarela-005",
+      "category": "tecnicas-de-pe",
+      "labelPt": "Executar o chute lateral (Yeop Chagi) com rotação de quadril",
+      "beltId": "amarela"
+    },
+    {
+      "id": "check-amarela-006",
+      "category": "poomse",
+      "labelPt": "Executar Taegeuk Il Jang completo sem paragens",
+      "beltId": "amarela"
+    },
+    {
+      "id": "check-amarela-007",
+      "category": "poomse",
+      "labelPt": "Saber o significado de Taegeuk Il Jang e o símbolo Geon",
+      "beltId": "amarela"
+    },
+    {
+      "id": "check-amarela-008",
+      "category": "teoria",
+      "labelPt": "Saber o que é Kiap e quando executá-lo na poomse",
+      "beltId": "amarela"
+    }
+  ]
+}

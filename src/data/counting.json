@@ -1,0 +1,16 @@
+{
+  "system": "native-korean",
+  "note": "O Taekwondo usa o sistema nativo coreano (하나, 둘, 셋...) para contar repetições durante o treino. Ouve o teu instrutor usar estas palavras para marcar cada técnica.",
+  "numbers": [
+    { "number": 1,  "korean": "하나", "romanized": "Hana",   "portuguese": "Um" },
+    { "number": 2,  "korean": "둘",   "romanized": "Dul",    "portuguese": "Dois" },
+    { "number": 3,  "korean": "셋",   "romanized": "Set",    "portuguese": "Três" },
+    { "number": 4,  "korean": "넷",   "romanized": "Net",    "portuguese": "Quatro" },
+    { "number": 5,  "korean": "다섯", "romanized": "Daseot", "portuguese": "Cinco" },
+    { "number": 6,  "korean": "여섯", "romanized": "Yeoseot","portuguese": "Seis" },
+    { "number": 7,  "korean": "일곱", "romanized": "Ilgop",  "portuguese": "Sete" },
+    { "number": 8,  "korean": "여덟", "romanized": "Yeodeol","portuguese": "Oito" },
+    { "number": 9,  "korean": "아홉", "romanized": "Ahop",   "portuguese": "Nove" },
+    { "number": 10, "korean": "열",   "romanized": "Yeol",   "portuguese": "Dez" }
+  ]
+}

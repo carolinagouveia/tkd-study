@@ -1,0 +1,20 @@
+{
+  "belt": {
+    "id": "vermelho",
+    "order": 9,
+    "name": "Vermelho",
+    "nameKorean": "홍 띠",
+    "namePt": "Cinto Vermelho",
+    "kup": "2.º KUP",
+    "colorName": "Vermelho",
+    "color": "#FCA5A5",
+    "textColor": "#7f1d1d",
+    "accentColor": "#dc2626",
+    "examRequirements": "Hyong: Hwa-Rang (29 movimentos).",
+    "meaning": null
+  },
+  "vocabulary": [],
+  "movements": [],
+  "poomse": [],
+  "checklist": []
+}

@@ -1,0 +1,309 @@
+{
+  "belt": {
+    "id": "branca",
+    "order": 1,
+    "name": "Branco",
+    "nameKorean": "흰 띠",
+    "namePt": "Cinto Branco",
+    "kup": "10.º KUP",
+    "colorName": "Branco",
+    "color": "#F1F5F9",
+    "textColor": "#1e293b",
+    "accentColor": "#6366f1",
+    "examRequirements": "Posições Tchariot, Narahni, Kima e Tchongul-Sogui; Paka Palmok Hadan-Maki; Tchungdan-Tchirugui; Sadju-Tchirugui (Wen-Tcho e Orun-Tcho). Hyong: Tchon-Gi.",
+    "meaning": "Pureza e novos começos — uma tela em branco, pronta a absorver conhecimento."
+  },
+  "vocabulary": [
+    {
+      "id": "vocab-branca-001",
+      "korean": "차렷서기",
+      "romanized": "Tchariot-Sogui",
+      "portuguese": "Posição de Atenção",
+      "category": "postura",
+      "beltId": "branca",
+      "notes": "Pés juntos em V (45°), pernas hirtas, abdómen contraído, punhos cerrados ao longo do corpo. Atenção total ao instrutor."
+    },
+    {
+      "id": "vocab-branca-002",
+      "korean": "나란히서기",
+      "romanized": "Narahni-Sogui",
+      "portuguese": "Posição Paralela",
+      "category": "postura",
+      "beltId": "branca",
+      "notes": "Pés paralelos à largura dos ombros. Parte-se sempre de Tchariot-Sogui."
+    },
+    {
+      "id": "vocab-branca-003",
+      "korean": "나란히준비서기",
+      "romanized": "Narahni Tchumbi-Sogui",
+      "portuguese": "Posição Paralela de Prontidão",
+      "category": "postura",
+      "beltId": "branca",
+      "notes": "Igual a Narahni-Sogui mas com as mãos colocadas em frente ao nó do cinto. É a posição de início do Sadju-Tchirugui."
+    },
+    {
+      "id": "vocab-branca-004",
+      "korean": "기마서기",
+      "romanized": "Kima-Sogui",
+      "portuguese": "Posição de Cavaleiro",
+      "category": "postura",
+      "beltId": "branca",
+      "notes": "Pernas abertas ao dobro da largura dos ombros, pés paralelos. Peso distribuído igualmente (50/50). Tronco direito."
+    },
+    {
+      "id": "vocab-branca-005",
+      "korean": "전굴서기",
+      "romanized": "Tchongul-Sogui",
+      "portuguese": "Posição de Avanço",
+      "category": "postura",
+      "beltId": "branca",
+      "notes": "Pernas afastadas longitudinalmente cerca de duas vezes a largura dos ombros. Perna da frente fletida em ângulo reto, perna de trás direita. Peso 50/50. Se perna direita à frente: U-Tchongul; se esquerda: Chuah-Tchongul."
+    },
+    {
+      "id": "vocab-branca-006",
+      "korean": "바깥팔목하단막기",
+      "romanized": "Paka Palmok Hadan-Maki",
+      "portuguese": "Defesa Baixa com Antebraço Exterior",
+      "category": "tecnica",
+      "beltId": "branca",
+      "notes": "Defesa com a parte exterior do pulso ao nível do joelho. Protege a zona abdominal baixa. O braço que defende fica no mesmo plano vertical que a perna da frente."
+    },
+    {
+      "id": "vocab-branca-007",
+      "korean": "중단지르기",
+      "romanized": "Tchungdan-Tchirugui",
+      "portuguese": "Soco Médio ao Plexus Solar",
+      "category": "tecnica",
+      "beltId": "branca",
+      "notes": "Ataque ao plexus solar. Os braços trocam-se em simultâneo: o braço que avança vai em linha reta, paralelo ao solo; o braço que recua passa pela zona dos rins."
+    },
+    {
+      "id": "vocab-branca-008",
+      "korean": "사주지르기",
+      "romanized": "Sadju-Tchirugui",
+      "portuguese": "Ataque nas Quatro Direções",
+      "category": "poomse",
+      "beltId": "branca",
+      "notes": "Primeira forma do Cinto Branco. Pratica-se em duas versões: Wen-Tcho (rodando pela esquerda) e Orun-Tcho (rodando pela direita). Treina a combinação de Hadan-Maki e Tchungdan-Tchirugui nas quatro direções."
+    },
+    {
+      "id": "vocab-branca-009",
+      "korean": "쉬어",
+      "romanized": "Shioh",
+      "portuguese": "Descanso / À Vontade",
+      "category": "comando",
+      "beltId": "branca",
+      "notes": "Comando para descansar em Narahni-Sogui descontraído. Dito pelo instrutor após Tchariot."
+    },
+    {
+      "id": "vocab-branca-010",
+      "korean": "바로",
+      "romanized": "Paroo",
+      "portuguese": "Retornar / Meia-Volta",
+      "category": "comando",
+      "beltId": "branca",
+      "notes": "Comando para retornar à posição inicial ou inverter o sentido do movimento. Usado no final do Sadju-Tchirugui."
+    }
+  ],
+  "movements": [
+    {
+      "id": "move-branca-itf-001",
+      "name": "Tchariot-Sogui",
+      "nameKorean": "차렷서기",
+      "romanized": "Tchariot-Sogui",
+      "stance": "tchariot-sogui",
+      "description": "1. Pés juntos, unidos, em forma de V a 45°.\n2. Pernas hirtas e unidas, abdómen contraído.\n3. Braços ao longo do corpo, punhos cerrados.\n4. Maxilares bem unidos, olhar em frente.\n5. Atenção mental total — pronto a responder a qualquer evento.",
+      "tips": "Os pés devem formar um V de 45° e não ficar completamente paralelos. O corpo inteiro deve estar firme mas sem tensão excessiva.",
+      "imagePlaceholder": "/images/movements/tchariot-sogui.svg",
+      "beltId": "branca"
+    },
+    {
+      "id": "move-branca-itf-002",
+      "name": "Narahni Tchumbi-Sogui",
+      "nameKorean": "나란히준비서기",
+      "romanized": "Narahni Tchumbi-Sogui",
+      "stance": "narahni-sogui",
+      "description": "1. Partir de Tchariot-Sogui.\n2. Abrir os pés até ficarem paralelos, à largura dos ombros.\n3. Colocar as mãos em frente ao nó do cinto, punhos cerrados.\n4. Olhar em frente, postura ereta.",
+      "tips": "Esta é a posição de início e fim do Sadju-Tchirugui. Distingue-se de Narahni-Sogui simples pela posição das mãos (à frente do cinto, e não ao longo do corpo).",
+      "imagePlaceholder": "/images/movements/narahni-tchumbi-sogui.svg",
+      "beltId": "branca"
+    },
+    {
+      "id": "move-branca-itf-003",
+      "name": "Kima-Sogui",
+      "nameKorean": "기마서기",
+      "romanized": "Kima-Sogui",
+      "stance": "kima-sogui",
+      "description": "1. Partir de Tchariot-Sogui ou Narahni-Sogui.\n2. Abrir as pernas ao dobro da largura dos ombros.\n3. Pés paralelos com os dedos voltados para a frente.\n4. Distribuir o peso igualmente pelas duas pernas (50/50).\n5. Tronco direito, ancas alinhadas.",
+      "tips": "A largura correta é o dobro da largura dos ombros — mais larga do que a Narahni. Joelhos ligeiramente fletidos para manter a posição estável.",
+      "imagePlaceholder": "/images/movements/kima-sogui.svg",
+      "beltId": "branca"
+    },
+    {
+      "id": "move-branca-itf-004",
+      "name": "Tchongul-Sogui",
+      "nameKorean": "전굴서기",
+      "romanized": "Tchongul-Sogui",
+      "stance": "tchongul-sogui",
+      "description": "1. Pernas afastadas lateralmente à largura dos ombros e longitudinalmente cerca de duas vezes essa distância.\n2. Perna da frente fletida em ângulo reto (joelho sobre o pé).\n3. Perna de trás direita, dedos o máximo para a frente.\n4. Peso distribuído 50% em cada perna.\n5. Tronco direito, olhar em frente.\n6. Se perna direita à frente: U-Tchongul. Se esquerda: Chuah-Tchongul.",
+      "tips": "Erro comum: dobrar a perna de trás. Deve ficar completamente direita. O joelho da frente não deve ultrapassar a ponta do pé.",
+      "imagePlaceholder": "/images/movements/tchongul-sogui.svg",
+      "beltId": "branca"
+    },
+    {
+      "id": "move-branca-itf-005",
+      "name": "Paka Palmok Hadan-Maki",
+      "nameKorean": "바깥팔목하단막기",
+      "romanized": "Paka Palmok Hadan-Maki",
+      "stance": "tchongul-sogui",
+      "description": "a) Armar a defesa com os punhos cerrados à altura do peito — a mão que vai defender fica por dentro.\nb) Avançar o braço correspondente à perna que está em frente, ficando braço e perna no mesmo plano vertical.\nc) O punho termina à distância de um palmo do joelho.\nd) Aplicação: pode ser usada contra um Ap-Tchagui, com a zona exterior do pulso a atingir o tornozelo do adversário.",
+      "tips": "O braço defensor e a perna da frente devem estar no mesmo plano vertical. Defende-se com a zona exterior do pulso (Paka Palmok), não com o dorso da mão.",
+      "imagePlaceholder": "/images/movements/paka-palmok-hadan-maki.svg",
+      "beltId": "branca"
+    },
+    {
+      "id": "move-branca-itf-006",
+      "name": "Tchungdan-Tchirugui",
+      "nameKorean": "중단지르기",
+      "romanized": "Tchungdan-Tchirugui",
+      "stance": "tchongul-sogui",
+      "description": "a) Para armar o ataque, o braço contrário à perna da frente está naturalmente à frente do tronco.\nb) Os braços trocam-se em simultâneo: o braço que estava avançado passa pela zona dos rins; o outro avança em linha reta.\nc) O punho termina paralelo ao solo, centrado em relação ao corpo, ao nível do plexus solar.\nd) Aplicação: ataque ao plexus solar do adversário.",
+      "tips": "O poder vem da rotação do tronco e da troca simultânea dos braços — não apenas do braço que ataca. Manter os ombros relaxados durante a execução.",
+      "imagePlaceholder": "/images/movements/tchungdan-tchirugui.svg",
+      "beltId": "branca"
+    }
+  ],
+  "poomse": [
+    {
+      "id": "poomse-sadju-tchirugui-wen-tcho",
+      "name": "Sadju-Tchirugui — Wen-Tcho",
+      "nameKorean": "사주지르기 (왼쪽)",
+      "beltId": "branca",
+      "totalSteps": 7,
+      "description": "Ataque e Defesa nas Quatro Direções — versão rodando pela esquerda. Pratica Tchongul-Sogui, Paka Palmok Hadan-Maki e Tchungdan-Tchirugui nas direções Norte, Este, Sul e Oeste. Parte e termina em Narahni Tchumbi-Sogui no ponto central.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "movementId": "move-branca-itf-006",
+          "direction": "N",
+          "technique": "Tchongul + Tchungdan-Tchirugui",
+          "stance": "tchongul-sogui",
+          "description": "De Narahni Tchumbi-Sogui, avançar em direção a Norte. Adotar Tchongul-Sogui e executar Tchungdan-Tchirugui com o braço direito.",
+          "diagramX": 150,
+          "diagramY": 90
+        },
+        {
+          "stepNumber": 2,
+          "movementId": "move-branca-itf-005",
+          "direction": "E",
+          "technique": "Paka Palmok Hadan-Maki",
+          "stance": "tchongul-sogui",
+          "description": "Rodar sobre o pé esquerdo e deslocar para Este. Em Tchongul-Sogui, executar Paka Palmok Hadan-Maki com o braço esquerdo.",
+          "diagramX": 210,
+          "diagramY": 150
+        },
+        {
+          "stepNumber": 3,
+          "movementId": "move-branca-itf-006",
+          "direction": "E",
+          "technique": "Tchongul + Tchungdan-Tchirugui",
+          "stance": "tchongul-sogui",
+          "description": "Avançar um passo para Este. Em Tchongul-Sogui, executar Tchungdan-Tchirugui com o braço direito.",
+          "diagramX": 240,
+          "diagramY": 150
+        },
+        {
+          "stepNumber": 4,
+          "movementId": "move-branca-itf-005",
+          "direction": "S",
+          "technique": "Paka Palmok Hadan-Maki",
+          "stance": "tchongul-sogui",
+          "description": "Rodar e deslocar para Sul. Em Tchongul-Sogui, executar Paka Palmok Hadan-Maki.",
+          "diagramX": 150,
+          "diagramY": 210
+        },
+        {
+          "stepNumber": 5,
+          "movementId": "move-branca-itf-006",
+          "direction": "S",
+          "technique": "Tchongul + Tchungdan-Tchirugui",
+          "stance": "tchongul-sogui",
+          "description": "Avançar um passo para Sul. Em Tchongul-Sogui, executar Tchungdan-Tchirugui.",
+          "diagramX": 150,
+          "diagramY": 240
+        },
+        {
+          "stepNumber": 6,
+          "movementId": "move-branca-itf-005",
+          "direction": "W",
+          "technique": "Paka Palmok Hadan-Maki",
+          "stance": "tchongul-sogui",
+          "description": "Rodar e deslocar para Oeste. Em Tchongul-Sogui, executar Paka Palmok Hadan-Maki.",
+          "diagramX": 90,
+          "diagramY": 150
+        },
+        {
+          "stepNumber": 7,
+          "movementId": "move-branca-itf-006",
+          "direction": "W",
+          "technique": "Tchongul + Tchungdan-Tchirugui",
+          "stance": "tchongul-sogui",
+          "kiap": true,
+          "description": "Avançar um passo para Oeste. Em Tchongul-Sogui, executar Tchungdan-Tchirugui. KIAP! À voz de PAROO, retornar a Narahni Tchumbi-Sogui no ponto central.",
+          "diagramX": 60,
+          "diagramY": 150
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "id": "check-branca-001",
+      "category": "tecnicas-de-mao",
+      "labelPt": "Tchariot-Sogui (Posição de Atenção)",
+      "beltId": "branca"
+    },
+    {
+      "id": "check-branca-002",
+      "category": "tecnicas-de-mao",
+      "labelPt": "Narahni Tchumbi-Sogui (Posição Paralela de Prontidão)",
+      "beltId": "branca"
+    },
+    {
+      "id": "check-branca-003",
+      "category": "tecnicas-de-mao",
+      "labelPt": "Kima-Sogui (Posição de Cavaleiro)",
+      "beltId": "branca"
+    },
+    {
+      "id": "check-branca-004",
+      "category": "tecnicas-de-mao",
+      "labelPt": "Tchongul-Sogui (Posição de Avanço) — esquerda e direita",
+      "beltId": "branca"
+    },
+    {
+      "id": "check-branca-005",
+      "category": "tecnicas-de-mao",
+      "labelPt": "Paka Palmok Hadan-Maki (Defesa Baixa)",
+      "beltId": "branca"
+    },
+    {
+      "id": "check-branca-006",
+      "category": "tecnicas-de-mao",
+      "labelPt": "Tchungdan-Tchirugui (Soco Médio)",
+      "beltId": "branca"
+    },
+    {
+      "id": "check-branca-007",
+      "category": "poomse",
+      "labelPt": "Sadju-Tchirugui — versão Wen-Tcho (rodando pela esquerda)",
+      "beltId": "branca"
+    },
+    {
+      "id": "check-branca-008",
+      "category": "poomse",
+      "labelPt": "Sadju-Tchirugui — versão Orun-Tcho (rodando pela direita)",
+      "beltId": "branca"
+    }
+  ]
+}

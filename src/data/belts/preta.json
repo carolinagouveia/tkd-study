@@ -1,0 +1,20 @@
+{
+  "belt": {
+    "id": "preta",
+    "order": 11,
+    "name": "Preto",
+    "nameKorean": "검은 띠",
+    "namePt": "Cinto Preto",
+    "kup": "1.º DAN",
+    "colorName": "Preto",
+    "color": "#1e293b",
+    "textColor": "#f8fafc",
+    "accentColor": "#e2e8f0",
+    "examRequirements": "Kwang-Gae (39), Po-Eun (36) ou Ge-Baek (44 movimentos).",
+    "meaning": null
+  },
+  "vocabulary": [],
+  "movements": [],
+  "poomse": [],
+  "checklist": []
+}

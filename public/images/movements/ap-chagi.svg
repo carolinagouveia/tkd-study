@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 180" fill="none">
+  <!-- Head -->
+  <circle cx="55" cy="20" r="12" fill="#94a3b8"/>
+  <!-- Body -->
+  <line x1="55" y1="32" x2="55" y2="85" stroke="#94a3b8" stroke-width="4" stroke-linecap="round"/>
+  <!-- Arms balanced -->
+  <line x1="55" y1="50" x2="25" y2="65" stroke="#94a3b8" stroke-width="4" stroke-linecap="round"/>
+  <line x1="55" y1="50" x2="82" y2="60" stroke="#94a3b8" stroke-width="4" stroke-linecap="round"/>
+  <!-- Support leg -->
+  <line x1="55" y1="85" x2="45" y2="145" stroke="#94a3b8" stroke-width="4" stroke-linecap="round"/>
+  <line x1="45" y1="145" x2="40" y2="172" stroke="#94a3b8" stroke-width="4" stroke-linecap="round"/>
+  <!-- Kicking leg — knee up, leg extending forward -->
+  <line x1="55" y1="85" x2="78" y2="105" stroke="#6366f1" stroke-width="4" stroke-linecap="round"/>
+  <line x1="78" y1="105" x2="105" y2="88" stroke="#6366f1" stroke-width="4" stroke-linecap="round"/>
+  <!-- Foot (apchuk) -->
+  <ellipse cx="107" cy="85" rx="7" ry="4" fill="#6366f1" transform="rotate(-20 107 85)"/>
+  <!-- Motion arc -->
+  <path d="M 60 100 Q 90 80 108 82" stroke="#6366f1" stroke-width="1.5" stroke-dasharray="4 3" fill="none" opacity="0.5"/>
+</svg>

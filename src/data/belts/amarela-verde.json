@@ -1,0 +1,20 @@
+{
+  "belt": {
+    "id": "amarela-verde",
+    "order": 4,
+    "name": "7.º KUP",
+    "nameKorean": "노초 띠",
+    "namePt": "Cinto Amarelo-Verde",
+    "kup": "7.º KUP",
+    "colorName": "Amarelo-Verde",
+    "color": "#ECFCCB",
+    "textColor": "#365314",
+    "accentColor": "#65a30d",
+    "examRequirements": "Hyong: Do-San (24 movimentos).",
+    "meaning": null
+  },
+  "vocabulary": [],
+  "movements": [],
+  "poomse": [],
+  "checklist": []
+}

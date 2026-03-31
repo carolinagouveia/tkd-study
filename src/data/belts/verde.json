@@ -1,0 +1,20 @@
+{
+  "belt": {
+    "id": "verde",
+    "order": 5,
+    "name": "Verde",
+    "nameKorean": "초록 띠",
+    "namePt": "Cinto Verde",
+    "kup": "6.º KUP",
+    "colorName": "Verde",
+    "color": "#BBF7D0",
+    "textColor": "#14532d",
+    "accentColor": "#16a34a",
+    "examRequirements": "Hyong: Won-Hyo (28 movimentos).",
+    "meaning": null
+  },
+  "vocabulary": [],
+  "movements": [],
+  "poomse": [],
+  "checklist": []
+}
